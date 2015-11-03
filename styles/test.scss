@@ -1,0 +1,17 @@
+// Variables!
+// DRY
+// I hate reapeting myself
+
+$black: black;
+$white: aliceblue;
+$normal-size: 1.25em;
+
+body {
+  /* Hi world, I am using sass */
+  // Javascript stye comment
+  // this only works in sass!
+  // not css
+  background: $black;
+  color: $white;
+  font-size: $normal-size;
+}
